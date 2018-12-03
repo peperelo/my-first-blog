@@ -25,7 +25,7 @@ SECRET_KEY = 'xavw&i&njnxfkv@8f=qdq%)x^mvyepxc!!tso!ksbbxd-t-ln4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com', 'peperelo.pythonanywhere.com', ]
+ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com', 'http://peperelo.pythonanywhere.com/', ]
 
 
 # Application definition
